@@ -1,16 +1,14 @@
-## Hi there 👋
+---
+# Kishor A.K
+ECE student | Embedded Systems and IoT | Kanyakumari, Tamil Nadu
 
-<!--
-**kishorak-git/kishorak-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build embedded and IoT prototypes and learn digital design along the way.
 
-Here are some ideas to get you started:
+## Projects
+- **Verilog 32-bit Mini SoC** – simulation-only SoC with memory-mapped bus, RAM, GPIO, timer, UART and SPI master, with self-checking testbenches. [Repo](https://github.com/kishorak-git/verilog-mini-soc)
+- **SmartPayPlug** – payment-controlled charging lockers (UPI via Razorpay test mode, OTP keypad unlock, ESP32). V0 complete; team of three; source is private.
+- **ChairIQ** – seat-pressure posture monitoring dashboard (simulation; sensor hardware not built yet). [Repo](https://github.com/kishorak-git/chairX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+[Portfolio](https://kishorak.me) · [LinkedIn](https://linkedin.com/in/kishorak14) · kishorak142007@gmail.com
+---
